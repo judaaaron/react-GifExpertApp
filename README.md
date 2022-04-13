@@ -1,2 +1,2 @@
 # react-GifExpertApp
-Buscador de gifs de cualquier categoría.
+Buscador de gifs de cualquier categoría, utilizando react y postman.
